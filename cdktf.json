@@ -1,0 +1,14 @@
+{
+  "language": "python",
+  "app": "python3 ./main.py",
+  "projectId": "e6a7fd05-1bb9-41df-9b1d-e85e225f40b3",
+  "sendCrashReports": "false",
+  "terraformProviders": [
+    "telmate/proxmox@2.9.11",
+    "pan-net/powerdns@~> 1.5",
+    "denouche/awx@~> 0.24"
+  ],
+  "terraformModules": [],
+  "codeMakerOutput": "imports",
+  "context": {}
+}

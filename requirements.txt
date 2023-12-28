@@ -1,0 +1,4 @@
+cdktf~=0.19.2
+pytest
+
+cdktf-cdktf-provider-vault~=11.0.2
